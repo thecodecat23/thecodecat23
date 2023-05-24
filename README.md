@@ -17,7 +17,6 @@ So if you're a fellow tech enthusiast, or just a curious cat 🐈 looking to lea
 * .NET
 * Azure
 * Docker
-* Kubernetes
 * Cloud Computing
 * AI
 * Generative Art
@@ -30,6 +29,7 @@ You can contact me at thecodecat23@gmail.com or connect with me on Twitter @thec
 
 Check out some of my latest projects and contributions on GitHub:
 - [Processing Sketches](https://github.com/thecodecat23/processing-sketches)
-
+- [C# 12 features Showcase](https://github.com/thecodecat23/csharp12-catventures)
+- [My Blog](https://github.com/thecodecat23/thecodecat-blog)
 
 ## Thanks for stopping by and meowing hello! 🐾
