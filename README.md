@@ -31,5 +31,6 @@ Check out some of my latest projects and contributions on GitHub:
 - [Processing Sketches](https://github.com/thecodecat23/processing-sketches)
 - [C# 12 features Showcase](https://github.com/thecodecat23/csharp12-catventures)
 - [My Blog](https://github.com/thecodecat23/thecodecat-blog)
+- [GameOfLife TDD and Minimal APIs Exercise](https://github.com/thecodecat23/game-of-life-api)
 
 ## Thanks for stopping by and meowing hello! 🐾
